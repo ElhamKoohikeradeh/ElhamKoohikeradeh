@@ -1,68 +1,88 @@
-# Hi, I'm Elham Koohi 👋
+# 👋 Hi, I'm Elham Koohi
 
-Geospatial & Remote Sensing Engineer | Soil Moisture Modeling | Machine Learning for Environmental Systems
+🛰️ Geospatial & Remote Sensing Engineer  
+🌱 Environmental Machine Learning  
+🧠 Satellite + UAV + Field Data Integration  
 
+## 🧭 What I Build
 
-## 🌍 About Me
+I design clean, reproducible geospatial pipelines that transform raw satellite and UAV imagery into structured environmental intelligence.
 
-I work at the intersection of geospatial engineering, remote sensing, and machine learning, focusing on soil moisture dynamics, drought monitoring, and precision agriculture systems.
+🔹 Modular Python workflows  
+🔹 SAR & optical feature engineering  
+🔹 Parcel-level spatial analytics  
+🔹 Field-to-pixel validation  
+🔹 Machine learning for soil moisture & drought monitoring  
 
-My background combines:
+I focus on turning complex environmental data into scalable engineering systems.
 
-- Satellite remote sensing (Sentinel-1 SAR, Sentinel-2 optical)
-- UAV multispectral & thermal analysis (MicaSense Altum-PT)
-- Soil moisture modeling and field validation
-- Machine learning & deep learning (RF, SVR, XGBoost, LSTM)
-- Geospatial pipelines (Python, GEE, ArcGIS Pro)
+## 🛰️ Remote Sensing Expertise
 
-I enjoy transforming raw geospatial data into reproducible and scalable analytical workflows.
+**Sentinel-1 (SAR)**
+- VV / VH processing  
+- Ratio, DpRVI, entropy, anisotropy  
+- Terrain correction & refined Lee filtering  
 
+**Sentinel-2 (Optical)**
+- NDVI, NDRE, GNDVI, SAVI, MCARI  
+- Cloud & snow masking  
+- Time-series analysis  
 
-## 🛰️ Core Technical Areas
+**UAV Processing**
+- Multispectral & thermal (MicaSense Altum-PT)  
+- Index extraction  
+- Ground truth alignment  
 
-- SAR processing (VV/VH, DpRVI, entropy, anisotropy, ratio)
-- Optical indices (NDVI, NDRE, GNDVI, SAVI, MCARI)
-- Terrain correction & refined Lee filtering
-- Zonal statistics & parcel-level analytics
-- ML-based soil moisture prediction
-- Time-series analysis & environmental modeling
+## 🤖 Machine Learning for Environmental Systems
+
+- 🌲 Random Forest  
+- 📈 SVR  
+- ⚡ XGBoost  
+- 🔁 LSTM  
+
+Focus:
+- Feature engineering from geospatial descriptors  
+- Cross-validation & model diagnostics  
+- Physically meaningful modeling  
 
 
 ## 🛠 Tech Stack
 
 **Languages**
-- Python
-- JavaScript (Google Earth Engine)
-- SQL
+- 🐍 Python  
+- 🌍 JavaScript (Google Earth Engine)  
+- 🗄️ SQL  
 
-**Geospatial & Remote Sensing**
-- Google Earth Engine
-- ArcGIS Pro
-- Rasterio / GeoPandas
-- SNAP
-- Pix4DMapper
+**Geospatial**
+- 🛰️ Google Earth Engine  
+- 🗺️ ArcGIS Pro  
+- 🧩 SNAP  
+- 🚁 Pix4DMapper  
+- 📦 GeoPandas / Rasterio / Shapely  
 
-**Machine Learning**
-- Scikit-learn
-- XGBoost
-- TensorFlow / Keras
-- Pandas / NumPy
-
-
-## 📂 Selected Projects
-
-- Sentinel-2 NDVI Workflow  
-- Sentinel-1 SAR Descriptor Extraction  
-- Soil Moisture Prediction using Machine Learning  
-- UAV-based Thermal & Multispectral Processing  
-
-(See repositories below for detailed implementations.)
+**ML & Data**
+- 📊 Scikit-learn  
+- ⚡ XGBoost  
+- 🧠 TensorFlow / Keras  
+- 🧮 NumPy / Pandas / Matplotlib  
 
 
-## 🎯 Current Focus
+## 📂 Featured Engineering Projects
 
-Building clean, reproducible geospatial pipelines that bridge remote sensing and AI for environmental monitoring.
+🔹 Sentinel-2 NDVI Processing Pipeline  
+🔹 Sentinel-1 SAR Descriptor Framework  
+🔹 Soil Moisture Prediction Models  
+🔹 UAV Thermal & Multispectral Workflow  
 
+Each repository is structured for:
+✔ reproducibility  
+✔ modularity  
+✔ clarity  
+✔ engineering readability  
+
+## 🎯 Current Direction
+
+Bridging advanced geospatial research with production-ready engineering systems for environmental monitoring and precision agriculture.
 
 
 <!--
