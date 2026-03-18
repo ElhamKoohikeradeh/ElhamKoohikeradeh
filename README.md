@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elham Koohi
+# 👋 Hi, I'm Elham Koohikeradeh
 
 🛰️ Geospatial & Remote Sensing Engineer  
 🌱 Environmental Machine Learning  
