@@ -12,7 +12,7 @@ I design clean, reproducible geospatial pipelines that transform raw satellite a
 🔹 SAR & optical feature engineering  
 🔹 Parcel-level spatial analytics  
 🔹 Field-to-pixel validation  
-🔹 Machine learning for soil moisture & drought monitoring  
+🔹 M 
 
 I focus on turning complex environmental data into scalable engineering systems.
 
@@ -35,10 +35,7 @@ I focus on turning complex environmental data into scalable engineering systems.
 
 ## 🤖 Machine Learning for Environmental Systems
 
-- 🌲 Random Forest  
-- 📈 SVR  
-- ⚡ XGBoost  
-- 🔁 LSTM  
+
 
 Focus:
 - Feature engineering from geospatial descriptors  
@@ -61,10 +58,10 @@ Focus:
 - 📦 GeoPandas / Rasterio / Shapely  
 
 **ML & Data**
-- 📊 Scikit-learn  
-- ⚡ XGBoost  
-- 🧠 TensorFlow / Keras  
-- 🧮 NumPy / Pandas / Matplotlib  
+- 📊  
+- ⚡ 
+- 🧠 
+- 🧮 
 
 
 ## 📂 Featured Engineering Projects
