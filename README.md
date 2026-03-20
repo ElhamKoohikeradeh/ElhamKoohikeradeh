@@ -8,6 +8,7 @@
  
  🤖 Precision Agriculture / AgTech
 
+
 What I Build:
 
 I design clean, reproducible geospatial pipelines that transform raw satellite and UAV imagery into structured environmental intelligence.
