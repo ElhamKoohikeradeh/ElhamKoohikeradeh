@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Elham Koohikeradeh
 
  🛰️ Geospatial / Earth Observation
+ 
  🌱 Environmental / Hydrology
+ 
  🧠 AI + Geospatial
+ 
  🤖 Precision Agriculture / AgTech
 
 What I Build:
